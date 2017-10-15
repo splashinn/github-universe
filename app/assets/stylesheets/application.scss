@@ -4,8 +4,15 @@
   font-family: 'Fascinate Inline', cursive;
 }
 
+#card-dashboard {
+}
+
 body {
   font-family: 'Droids San', sans-serif;
-  background-color: orange;
-  padding: 75px;
+  background-image: url('githubUniverse.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+  padding-top: 75px;
 }
